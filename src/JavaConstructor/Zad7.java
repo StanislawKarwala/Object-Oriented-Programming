@@ -17,6 +17,7 @@ public class Zad7 {
         this.model = (model == null || model.isEmpty()) ? "Unknown model" : model;
         this.year = (year <= 0) ? 2000 : year;
     }
+
     public static void main(String[] args) {
         Zad7 car = new Zad7("", "", 0);
         System.out.println(car.make);

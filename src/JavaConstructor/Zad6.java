@@ -28,7 +28,6 @@ public class Zad6 {
         this.balance = balance;
     }
 
-
     public static void main(String[] args) {
         Zad6 account = new Zad6("6666232", -1);
         System.out.println("Account 1 Number: " + account.accountNumber);
