@@ -34,11 +34,31 @@ class Trianglee extends GeometricShape{
 }
 
 class Square extends GeometricShape{
+    private double side;
 
+    public Square(double side){
+        this.side = side;
+    }
+
+    @Override
+    public double area(){
+        return side * side;
+    }
+
+    @Override
+    public double perimeter(){
+        return 4 * side;
+    }
 }
 
 public class Zad12 {
     public static void main(String[] args) {
+        GeometricShape triangle = new Trianglee(3, 4, 5);
+        GeometricShape square = new Square(2);
 
+        System.out.println("Triangle Area: " + triangle.area());
+        System.out.println("Triangle Perimeter: " + triangle.perimeter());
+        System.out.println("\nSquare Area: " + square.area());
+        System.out.println("Square Perimeter: " + square.perimeter());
     }
 }

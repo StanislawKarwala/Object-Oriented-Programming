@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="Java Abstract Classes finished">
-      <change beforePath="$PROJECT_DIR$/src/JavaConstructor/Zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConstructor/Zad1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConstructor/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConstructor/Zad3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConstructor/Zad4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConstructor/Zad4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConstructor/Zad5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConstructor/Zad5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConstructor/Zad8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConstructor/Zad8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaInheritance/Zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInheritance/Zad10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaInheritance/Zad5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInheritance/Zad5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaInheritance/Zad7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInheritance/Zad7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaInheritance/Zad8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInheritance/Zad8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaInheritance/Zad9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInheritance/Zad9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaNestedClasses/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaNestedClasses/Zad3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaNestedClasses/Zad6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaNestedClasses/Zad6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStaticMembers/Zad8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStaticMembers/Zad8.java" afterDir="false" />
+    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="Code refactoring">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaAbstractClasses/Zad12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaAbstractClasses/Zad12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +52,7 @@
     "Application.Zad1.executor": "Run",
     "Application.Zad10.executor": "Run",
     "Application.Zad11.executor": "Run",
+    "Application.Zad12.executor": "Run",
     "Application.Zad2.executor": "Run",
     "Application.Zad3.executor": "Run",
     "Application.Zad4.executor": "Run",
@@ -80,13 +70,13 @@
     "onboarding.tips.debug.path": "C:/Users/hhjv/IdeaProjects/ObjectOrientedProgramming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad11">
+  <component name="RunManager" selected="Application.Zad10">
     <configuration name="Zad10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAbstractClasses.Zad10" />
+      <option name="MAIN_CLASS_NAME" value="JavaInterface.Zad10" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAbstractClasses.*" />
+          <option name="PATTERN" value="JavaInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="Zad11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAbstractClasses.Zad11" />
+      <option name="MAIN_CLASS_NAME" value="JavaInterface.Zad11" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAbstractClasses.*" />
+          <option name="PATTERN" value="JavaInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAbstractClasses.Zad7" />
+    <configuration name="Zad7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterface.Zad7" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAbstractClasses.*" />
+          <option name="PATTERN" value="JavaInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="Zad8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAbstractClasses.Zad8" />
+      <option name="MAIN_CLASS_NAME" value="JavaInterface.Zad8" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAbstractClasses.*" />
+          <option name="PATTERN" value="JavaInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +124,11 @@
       </method>
     </configuration>
     <configuration name="Zad9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAbstractClasses.Zad9" />
+      <option name="MAIN_CLASS_NAME" value="JavaInterface.Zad9" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAbstractClasses.*" />
+          <option name="PATTERN" value="JavaInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad11" />
         <item itemvalue="Application.Zad10" />
+        <item itemvalue="Application.Zad11" />
         <item itemvalue="Application.Zad9" />
         <item itemvalue="Application.Zad8" />
-        <item itemvalue="Application.Zad7 (1)" />
+        <item itemvalue="Application.Zad7" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727274371017</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Code refactoring">
+      <option name="closed" value="true" />
+      <created>1727274807403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727274807403</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +235,7 @@
     <MESSAGE value="Java Static Members finished" />
     <MESSAGE value="Java Nested Classes finished" />
     <MESSAGE value="Java Abstract Classes finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Abstract Classes finished" />
+    <MESSAGE value="Code refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code refactoring" />
   </component>
 </project>
