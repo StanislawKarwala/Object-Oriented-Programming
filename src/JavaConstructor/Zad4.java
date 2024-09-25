@@ -15,6 +15,7 @@ public class Zad4 {
     public Zad4(){
         this(0, "Null", 0);
     }
+
     public Zad4(int studentId, String studentName, int grade){
         this.studentId = studentId;
         this.studentName = studentName;

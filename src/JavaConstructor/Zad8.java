@@ -17,6 +17,7 @@ public class Zad8 {
         this.x = x;
         this.y = y;
     }
+
     public Zad8(double x, double y){
         this.x = (int) x;
         this.y = (int) y;

@@ -20,21 +20,27 @@ abstract class Vehiclee{
         this.fuelType = fuelType;
         this.fuelEfficiency = fuelEfficiency;
     }
+
     public String getMake(){
         return make;
     }
+
     public String getModel(){
         return model;
     }
+
     public int getYear(){
         return year;
     }
+
     public String getFuelType(){
         return fuelType;
     }
+
     public double getFuelEfficiency(){
         return fuelEfficiency;
     }
+
     public abstract double calculateFuelEfficiency();
     public abstract double calculateDistanceTravelled();
     public abstract double getMaxSpeed();
@@ -47,17 +53,21 @@ class Truck extends Vehiclee{
         super(make, model, year, fuelType, fuelEfficiency);
         this.cargoCapacity = cargoCapacity;
     }
+
     public double getCargoCapacity(){
         return cargoCapacity;
     }
+
     @Override
     public double calculateFuelEfficiency(){
         return getFuelEfficiency() * (1.0 / (1.0 + (getCargoCapacity())));
     }
+
     @Override
     public double calculateDistanceTravelled(){
         return calculateFuelEfficiency() * getFuelEfficiency();
     }
+
     @Override
     public double getMaxSpeed(){
      return 120.0;
@@ -71,17 +81,21 @@ class Carr extends Vehiclee{
         super(make, model, year, fuelType, fuelEfficiency);
         this.carCapacity = carCapacity;
     }
+
     public double getCarCapacity(){
         return carCapacity;
     }
+
     @Override
     public double calculateFuelEfficiency(){
         return getFuelEfficiency() * (1.0 / (1.0 + (getCarCapacity())));
     }
+
     @Override
     public double calculateDistanceTravelled(){
         return calculateFuelEfficiency() * getFuelEfficiency();
     }
+
     @Override
     public double getMaxSpeed(){
         return 200.0;
@@ -96,17 +110,21 @@ class Motorcycle extends Vehiclee{
         super(make, model, year, fuelType, fuelEfficiency);
         this.motorcycleCapacity = motorcycleCapacity;
     }
+
     public double getMotorcycleCapacity(){
         return motorcycleCapacity;
     }
+
     @Override
     public double calculateFuelEfficiency(){
         return getFuelEfficiency() * (1.0 / (1.0 + (getMotorcycleCapacity())));
     }
+
     @Override
     public double calculateDistanceTravelled(){
         return calculateFuelEfficiency() * getFuelEfficiency();
     }
+
     @Override
     public double getMaxSpeed(){
         return 260.0;

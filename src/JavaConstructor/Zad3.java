@@ -17,10 +17,12 @@ public class Zad3 {
 
     public Zad3(){
     }
+
     public Zad3(String title, String author){
         this.title = title;
         this.author = author;
     }
+
     public Zad3(String title, String author, double price){
         this.title = title;
         this.author = author;

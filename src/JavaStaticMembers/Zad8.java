@@ -21,12 +21,15 @@ public class Zad8 {
     public static String getBankName(){
         return bankName;
     }
+
     public static void setBankName(String name){
         bankName = name;
     }
+
     public static double getInterestRate(){
         return interestRate;
     }
+
     public static void setInterestRate(double rate){
         interestRate = rate;
     }

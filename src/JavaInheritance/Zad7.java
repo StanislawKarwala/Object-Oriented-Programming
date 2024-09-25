@@ -13,9 +13,11 @@ class Person{
         this.firstName = firstName;
         this.lastName = lastName;
     }
+
     public String getFirstName(){
         return firstName;
     }
+
     public String getLastName(){
         return lastName;
     }
@@ -30,9 +32,11 @@ class Employeee extends Person{
         this.employeeId = employeeId;
         this.jobTitle = jobTitle;
     }
+
     public int getEmployeeId(){
         return employeeId;
     }
+
     @Override
     public String getLastName(){
         return super.getLastName() + ", Job: " + jobTitle;

@@ -17,7 +17,6 @@ public class Zad6 {
 
     public static void main(String[] args) {
         int sum = Zad6.Calculator.add(20, 40);
-
         System.out.println("Sum: " + sum);
     }
 }

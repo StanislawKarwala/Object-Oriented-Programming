@@ -17,6 +17,7 @@ public class Zad3 {
         Engine engine = new Engine();
         engine.run();
     }
+
     public static void main(String[] args) {
         Zad3 car = new Zad3();
         car.startEngine();

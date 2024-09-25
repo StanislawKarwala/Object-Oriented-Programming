@@ -14,9 +14,11 @@ public class Zad1 {
         this.name = "Unknown";
         this.age = 10;
     }
+
     public String getName(){
         return name;
     }
+
     public int getAge(){
         return age;
     }
