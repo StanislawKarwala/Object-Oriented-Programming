@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="Java Encapsulation in progress">
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaEncapsulation/Zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +50,20 @@
   "keyToString": {
     "Application.Zad1 (1).executor": "Run",
     "Application.Zad1.executor": "Run",
+    "Application.Zad10 (1).executor": "Run",
     "Application.Zad10.executor": "Run",
+    "Application.Zad11 (1).executor": "Run",
     "Application.Zad11.executor": "Run",
+    "Application.Zad12 (1).executor": "Run",
+    "Application.Zad12 (2).executor": "Run",
+    "Application.Zad12 (3).executor": "Run",
+    "Application.Zad12 (4).executor": "Run",
     "Application.Zad12.executor": "Run",
+    "Application.Zad13 (1).executor": "Run",
+    "Application.Zad13 (2).executor": "Run",
+    "Application.Zad13.executor": "Run",
+    "Application.Zad14 (1).executor": "Run",
+    "Application.Zad14.executor": "Run",
     "Application.Zad2.executor": "Run",
     "Application.Zad3.executor": "Run",
     "Application.Zad4.executor": "Run",
@@ -80,9 +82,9 @@
     "onboarding.tips.debug.path": "C:/Users/hhjv/IdeaProjects/ObjectOrientedProgramming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad9 (1)">
-    <configuration name="Zad7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad7" />
+  <component name="RunManager" selected="Application.Zad14">
+    <configuration name="Zad13 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad13" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad8 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad8" />
+    <configuration name="Zad13 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad13" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad8" />
+    <configuration name="Zad14 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad14" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad9 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad9" />
+    <configuration name="Zad14 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad14" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad9" />
+    <configuration name="Zad14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad14" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad9 (1)" />
-        <item itemvalue="Application.Zad9" />
-        <item itemvalue="Application.Zad8" />
-        <item itemvalue="Application.Zad8 (1)" />
-        <item itemvalue="Application.Zad7 (1)" />
+        <item itemvalue="Application.Zad14" />
+        <item itemvalue="Application.Zad14 (2)" />
+        <item itemvalue="Application.Zad14 (1)" />
+        <item itemvalue="Application.Zad13 (2)" />
+        <item itemvalue="Application.Zad13 (1)" />
       </list>
     </recent_temporary>
   </component>
