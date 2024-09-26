@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="Java Encapsulation in progress">
+    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="Java Encapsulation finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEncapsulation/Zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaEncapsulation/Zad10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,11 @@
     "Application.Zad13 (2).executor": "Run",
     "Application.Zad13.executor": "Run",
     "Application.Zad14 (1).executor": "Run",
+    "Application.Zad14 (2).executor": "Run",
     "Application.Zad14.executor": "Run",
+    "Application.Zad2 (1).executor": "Run",
+    "Application.Zad2 (2).executor": "Run",
+    "Application.Zad2 (3).executor": "Run",
     "Application.Zad2.executor": "Run",
     "Application.Zad3.executor": "Run",
     "Application.Zad4.executor": "Run",
@@ -82,13 +85,13 @@
     "onboarding.tips.debug.path": "C:/Users/hhjv/IdeaProjects/ObjectOrientedProgramming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad14">
-    <configuration name="Zad13 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad13" />
+  <component name="RunManager" selected="Application.Zad7">
+    <configuration name="Zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad3" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaEncapsulation.*" />
+          <option name="PATTERN" value="JavaPolmyorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad13 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad13" />
+    <configuration name="Zad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad4" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaEncapsulation.*" />
+          <option name="PATTERN" value="JavaPolmyorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad14 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad14" />
+    <configuration name="Zad5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad5" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaEncapsulation.*" />
+          <option name="PATTERN" value="JavaPolmyorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad14 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad14" />
+    <configuration name="Zad6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad6" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaEncapsulation.*" />
+          <option name="PATTERN" value="JavaPolmyorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaEncapsulation.Zad14" />
+    <configuration name="Zad7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad7" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaEncapsulation.*" />
+          <option name="PATTERN" value="JavaPolmyorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad14" />
-        <item itemvalue="Application.Zad14 (2)" />
-        <item itemvalue="Application.Zad14 (1)" />
-        <item itemvalue="Application.Zad13 (2)" />
-        <item itemvalue="Application.Zad13 (1)" />
+        <item itemvalue="Application.Zad7" />
+        <item itemvalue="Application.Zad6" />
+        <item itemvalue="Application.Zad5" />
+        <item itemvalue="Application.Zad4" />
+        <item itemvalue="Application.Zad3" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727305797201</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Java Encapsulation finished">
+      <option name="closed" value="true" />
+      <created>1727372855269</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727372855269</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +277,7 @@
     <MESSAGE value="Code refactoring" />
     <MESSAGE value="Java Interface finished" />
     <MESSAGE value="Java Encapsulation in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Encapsulation in progress" />
+    <MESSAGE value="Java Encapsulation finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Encapsulation finished" />
   </component>
 </project>
