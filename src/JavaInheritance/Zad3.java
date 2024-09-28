@@ -2,7 +2,7 @@ package JavaInheritance;
 
 /*
 Write a Java program to create a class called Shape with a method called getArea().
-Create a subclass called Rectangle that overrides the getArea() method to calculate the area of a rectangle.
+Create a subclass called Rectangle that overrides the getArea() method to calculate the calculateArea of a rectangle.
 */
 
 class Shape{
@@ -34,6 +34,6 @@ public class Zad3 {
 
         System.out.println("Length: " + length);
         System.out.println("Width: " + width);
-        System.out.println("Rectangle area: " + rect.getArea());
+        System.out.println("Rectangle calculateArea: " + rect.getArea());
     }
 }

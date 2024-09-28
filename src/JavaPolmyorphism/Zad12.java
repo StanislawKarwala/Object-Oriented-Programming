@@ -4,7 +4,7 @@ package JavaPolmyorphism;
 Write a Java program to create a base class Shape with methods draw() and calculateArea().
 Create two subclasses Circle and Cylinder.
 Override the draw() method in each subclass to draw the respective shape.
-In addition, override the calculateArea() method in the Cylinder subclass to calculate and return the total surface area of the cylinder.
+In addition, override the calculateArea() method in the Cylinder subclass to calculate and return the total surface calculateArea of the cylinder.
 */
 
 abstract class Shapeeee{
@@ -69,12 +69,12 @@ public class Zad12 {
 
         draw(circle);
         System.out.println("Circle radius: " + circle.getRadius());
-        System.out.println("Circle area: " + circle.calculateArea());
+        System.out.println("Circle calculateArea: " + circle.calculateArea());
 
         draw(cylinder);
         System.out.println("\nCylinder radius: " + cylinder.getRadius());
         System.out.println("Cylinder height: " + cylinder.getHeight());
-        System.out.println("Cylinder area: " + cylinder.calculateArea());
+        System.out.println("Cylinder calculateArea: " + cylinder.calculateArea());
     }
 
     public static void draw(Shapeeee shape){

@@ -70,8 +70,8 @@ public class Zad1 {
         Triangle triangle = new Triangle(a, b, c);
 
         System.out.println("Rectangle length: " + length + " and width: " + width);
-        System.out.println("Rectangle area: " + rectangle.getArea());
+        System.out.println("Rectangle calculateArea: " + rectangle.getArea());
         System.out.println("\nTriangle sides: " + a + ", " + b + ", " + c);
-        System.out.println("Triangle area: " + triangle.getArea());
+        System.out.println("Triangle calculateArea: " + triangle.getArea());
     }
 }

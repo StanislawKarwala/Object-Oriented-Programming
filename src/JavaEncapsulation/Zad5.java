@@ -4,7 +4,7 @@ package JavaEncapsulation;
 Write a Java program to create a class called Circle with a private instance variable radius.
 Provide public getter and setter methods to access and modify the radius variable.
 However, provide two methods called calculateArea() and calculatePerimeter()
-that return the calculated area and perimeter based on the current radius value.
+that return the calculated calculateArea and perimeter based on the current radius value.
 */
 
 class Circle{
@@ -34,7 +34,7 @@ public class Zad5 {
         circle.setRadius(radius);
 
         System.out.println("Radius: " + radius);
-        System.out.println("Circle area: " + circle.calculateArea());
+        System.out.println("Circle calculateArea: " + circle.calculateArea());
         System.out.println("Circle perimeter: " + circle.calculatePerimeter());
     }
 }

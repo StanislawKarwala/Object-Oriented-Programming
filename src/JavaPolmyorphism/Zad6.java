@@ -3,7 +3,7 @@ package JavaPolmyorphism;
 /*
 Write a Java program to create a class Shape with methods getArea() and getPerimeter().
 Create three subclasses: Circle, Rectangle, and Triangle.
-Override the getArea() and getPerimeter() methods in each subclass to calculate and return the area and perimeter of the respective shapes.
+Override the getArea() and getPerimeter() methods in each subclass to calculate and return the calculateArea and perimeter of the respective shapes.
 */
 
 class Shapee{
@@ -108,15 +108,15 @@ public class Zad6 {
         Trianglee trg = new Trianglee(5, 10, 14);
 
         System.out.println("Circle radius: " + crc.getRadius());
-        System.out.println("Circle area: " + crc.getArea());
+        System.out.println("Circle calculateArea: " + crc.getArea());
         System.out.println("Circle perimeter: " + crc.getPerimeter());
 
         System.out.println("\nRectangle length: " + rct.getLength() + ", and width: " + rct.getWidth());
-        System.out.println("Rectangle area: " + rct.getArea());
+        System.out.println("Rectangle calculateArea: " + rct.getArea());
         System.out.println("Rectangle perimeter: " + rct.getPerimeter());
 
         System.out.println("\nTriangle sides: " + trg.getSide1() + ", " + trg.getSide2() + ", " + trg.getSide3());
-        System.out.println("Triangle area: " + trg.getArea());
+        System.out.println("Triangle calculateArea: " + trg.getArea());
         System.out.println("Triangle perimeter: " + trg.getPerimeter());
     }
 }
