@@ -2,7 +2,7 @@ package JavaAbstractClasses;
 
 /*
 Write a Java program to create an abstract class Shape3D with abstract methods calculateVolume() and calculateSurfaceArea().
-Create subclasses Sphere and Cube that extend the Shape3D class and implement the respective methods to calculate the volume and surface calculateArea of each shape.
+Create subclasses Sphere and Cube that extend the Shape3D class and implement the respective methods to calculate the volume and surface area of each shape.
 */
 
 abstract class Shape3D{
@@ -63,11 +63,11 @@ public class Zad6 {
         Shape3D cube = new Cube(a);
         System.out.println("Cube side: " + a);
         System.out.println("Cube volume: " + cube.calculateVolume());
-        System.out.println("Cube surface calculateArea: " + cube.calculateSurfaceArea());
+        System.out.println("Cube surface area: " + cube.calculateSurfaceArea());
 
         Shape3D sphere = new Sphere(radius);
         System.out.println("\nSphere radius: " + radius);
         System.out.println("Sphere volume: " + sphere.calculateVolume());
-        System.out.println("Sphere surface calculateArea: " + sphere.calculateSurfaceArea());
+        System.out.println("Sphere surface area: " + sphere.calculateSurfaceArea());
     }
 }

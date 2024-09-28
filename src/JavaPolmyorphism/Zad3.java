@@ -3,7 +3,7 @@ package JavaPolmyorphism;
 /*
 Write a Java program to create a base class Shape with a method called calculateArea().
 Create three subclasses: Circle, Rectangle, and Triangle.
-Override the calculateArea() method in each subclass to calculate and return the shape's calculateArea.
+Override the calculateArea() method in each subclass to calculate and return the shape's area.
 */
 
 class Shape{
@@ -72,12 +72,12 @@ public class Zad3 {
         Triangle triangle = new Triangle(side1, side2, side3);
 
         System.out.println("Circle radius: " + radius);
-        System.out.println("Circle calculateArea: " + circle.calculateArea());
+        System.out.println("Circle area: " + circle.calculateArea());
 
         System.out.println("\nRectangle width: " + width + ", length: " + length);
-        System.out.println("Rectangle calculateArea: " + rectangle.calculateArea());
+        System.out.println("Rectangle area: " + rectangle.calculateArea());
 
         System.out.println("\nTriangle sides: " + side1 + ", " + side2 + ", " + side3);
-        System.out.println("Triangle calculateArea: " + triangle.calculateArea());
+        System.out.println("Triangle area: " + triangle.calculateArea());
     }
 }

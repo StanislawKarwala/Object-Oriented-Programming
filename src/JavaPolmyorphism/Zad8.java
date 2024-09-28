@@ -3,7 +3,7 @@ package JavaPolmyorphism;
 /*
 Write a Java program to create a base class Shape with methods draw() and calculateArea().
 Create three subclasses: Circle, Square, and Triangle.
-Override the draw() method in each subclass to draw the respective shape, and override the calculateArea() method to calculate and return the calculateArea of each shape.
+Override the draw() method in each subclass to draw the respective shape, and override the calculateArea() method to calculate and return the area of each shape.
 */
 
 class Shapeee{
@@ -103,14 +103,14 @@ public class Zad8 {
 
         System.out.println("Circle radius: " + circle.getRadius());
         circle.draw();
-        System.out.println("Circle calculateArea: " + circle.calculateArea());
+        System.out.println("Circle area: " + circle.calculateArea());
 
         System.out.println("\nSquare side: " + square.getSide());
         square.draw();
-        System.out.println("Square calculateArea: " + square.calculateArea());
+        System.out.println("Square area: " + square.calculateArea());
 
         System.out.println("\nTriangle sides: " + triangle.getSide1() + ", " + triangle.getSide2() + ", " + triangle.getSide3());
         triangle.draw();
-        System.out.println("Triangle calculateArea: " + triangle.calculateArea());
+        System.out.println("Triangle area: " + triangle.calculateArea());
     }
 }
