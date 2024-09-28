@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="Java Polymorphism in progress">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad12.java" afterDir="false" />
-    </list>
+    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="Java Polymorphism in progress" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
