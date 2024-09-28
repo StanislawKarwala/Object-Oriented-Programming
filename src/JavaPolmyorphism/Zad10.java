@@ -54,6 +54,15 @@ class Panther extends Animalll{
 
 public class Zad10 {
     public static void main(String[] args) {
+        Lion lion = new Lion();
+        Tiger tiger = new Tiger();
+        Panther panther = new Panther();
 
+        lion.eat();
+        lion.sound();
+        tiger.eat();
+        tiger.sound();
+        panther.eat();
+        panther.sound();
     }
 }

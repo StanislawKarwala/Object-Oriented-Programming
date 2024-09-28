@@ -7,8 +7,8 @@
     <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="Java Polymorphism in progress">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPolmyorphism/Zad12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +88,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hhjv/IdeaProjects/ObjectOrientedProgramming/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zad9 (1)">
-    <configuration name="Zad6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad6" />
+  <component name="RunManager" selected="Application.Zad12">
+    <configuration name="Zad10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad10" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad7" />
+    <configuration name="Zad11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad11" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad8" />
+    <configuration name="Zad12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPolmyorphism.Zad12" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad12" />
+        <item itemvalue="Application.Zad11" />
+        <item itemvalue="Application.Zad10" />
         <item itemvalue="Application.Zad9 (1)" />
         <item itemvalue="Application.Zad9" />
-        <item itemvalue="Application.Zad8" />
-        <item itemvalue="Application.Zad7" />
-        <item itemvalue="Application.Zad6" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727389653206</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Java Polymorphism in progress">
+      <option name="closed" value="true" />
+      <created>1727554376018</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727554376018</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
