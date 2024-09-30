@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="some bug fixed i think">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,18 @@
     "Application.Zad13.executor": "Run",
     "Application.Zad14 (1).executor": "Run",
     "Application.Zad14 (2).executor": "Run",
+    "Application.Zad14 (3).executor": "Run",
+    "Application.Zad14 (4).executor": "Run",
+    "Application.Zad14 (5).executor": "Run",
     "Application.Zad14.executor": "Run",
+    "Application.Zad15 (1).executor": "Run",
+    "Application.Zad15 (2).executor": "Run",
+    "Application.Zad15 (3).executor": "Run",
+    "Application.Zad15 (4).executor": "Run",
+    "Application.Zad15 (5).executor": "Run",
+    "Application.Zad15.executor": "Run",
+    "Application.Zad16.executor": "Run",
+    "Application.Zad17.executor": "Run",
     "Application.Zad2 (1).executor": "Run",
     "Application.Zad2 (2).executor": "Run",
     "Application.Zad2 (3).executor": "Run",
@@ -90,9 +102,9 @@
     "onboarding.tips.debug.path": "C:/Users/hhjv/IdeaProjects/ObjectOrientedProgramming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad13">
-    <configuration name="ObjectOrientedProgramming.Zad12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad12" />
+  <component name="RunManager" selected="Application.Zad17">
+    <configuration name="Zad14 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad14" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad12" />
+    <configuration name="Zad14 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad14" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad13 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad13" />
+    <configuration name="Zad14 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad14" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad13 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad13" />
+    <configuration name="Zad15 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad15" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +155,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad13" />
+    <configuration name="Zad15 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad15" />
+      <module name="ObjectOrientedProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOrientedProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad15" />
+      <module name="ObjectOrientedProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOrientedProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad16" />
+      <module name="ObjectOrientedProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOrientedProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad17" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad13" />
-        <item itemvalue="Application.Zad13 (2)" />
-        <item itemvalue="Application.Zad13 (1)" />
-        <item itemvalue="Application.ObjectOrientedProgramming.Zad12" />
-        <item itemvalue="Application.Zad12" />
+        <item itemvalue="Application.Zad17" />
+        <item itemvalue="Application.Zad16" />
+        <item itemvalue="Application.Zad15" />
+        <item itemvalue="Application.Zad15 (1)" />
+        <item itemvalue="Application.Zad15 (5)" />
       </list>
     </recent_temporary>
   </component>
