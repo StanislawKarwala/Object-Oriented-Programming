@@ -104,7 +104,7 @@ class SchoolClass{
     public SchoolClass(String className, Teacher teacher){
         this.className = className;
         this.teacher = teacher;
-        this.students = new ArrayList<Studentt>();
+        this.students = new ArrayList<>();
     }
 
     public String getClassName(){

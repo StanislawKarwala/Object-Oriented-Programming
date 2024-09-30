@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="some bug fixed i think">
+    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="finished 14-17 exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,10 +83,29 @@
     "Application.Zad15.executor": "Run",
     "Application.Zad16.executor": "Run",
     "Application.Zad17.executor": "Run",
+    "Application.Zad18 (1).executor": "Run",
+    "Application.Zad18.executor": "Run",
+    "Application.Zad19 (1).executor": "Run",
+    "Application.Zad19 (2).executor": "Run",
+    "Application.Zad19 (3).executor": "Run",
+    "Application.Zad19 (4).executor": "Run",
+    "Application.Zad19 (5).executor": "Run",
+    "Application.Zad19.executor": "Run",
     "Application.Zad2 (1).executor": "Run",
     "Application.Zad2 (2).executor": "Run",
     "Application.Zad2 (3).executor": "Run",
     "Application.Zad2.executor": "Run",
+    "Application.Zad20 (1).executor": "Run",
+    "Application.Zad20 (2).executor": "Run",
+    "Application.Zad20 (3).executor": "Run",
+    "Application.Zad20.executor": "Run",
+    "Application.Zad21 (1).executor": "Run",
+    "Application.Zad21 (2).executor": "Run",
+    "Application.Zad21.executor": "Run",
+    "Application.Zad22.executor": "Run",
+    "Application.Zad23.executor": "Run",
+    "Application.Zad24 (1).executor": "Run",
+    "Application.Zad24.executor": "Run",
     "Application.Zad3.executor": "Run",
     "Application.Zad4.executor": "Run",
     "Application.Zad5 (1).executor": "Run",
@@ -102,9 +123,9 @@
     "onboarding.tips.debug.path": "C:/Users/hhjv/IdeaProjects/ObjectOrientedProgramming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad17">
-    <configuration name="Zad14 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad14" />
+  <component name="RunManager" selected="Application.Zad24">
+    <configuration name="Zad21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad21" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad14 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad14" />
+    <configuration name="Zad22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad22" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad14 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad14" />
+    <configuration name="Zad23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad23" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad15 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad15" />
+    <configuration name="Zad24 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad24" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -155,47 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad15 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad15" />
-      <module name="ObjectOrientedProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOrientedProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad15" />
-      <module name="ObjectOrientedProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOrientedProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad16" />
-      <module name="ObjectOrientedProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOrientedProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad17" />
+    <configuration name="Zad24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad24" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -209,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad17" />
-        <item itemvalue="Application.Zad16" />
-        <item itemvalue="Application.Zad15" />
-        <item itemvalue="Application.Zad15 (1)" />
-        <item itemvalue="Application.Zad15 (5)" />
+        <item itemvalue="Application.Zad24" />
+        <item itemvalue="Application.Zad24 (1)" />
+        <item itemvalue="Application.Zad23" />
+        <item itemvalue="Application.Zad22" />
+        <item itemvalue="Application.Zad21" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727567809868</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="finished 14-17 exercises">
+      <option name="closed" value="true" />
+      <created>1727663040262</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727663040262</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,6 +350,7 @@
     <MESSAGE value="Java Encapsulation finished" />
     <MESSAGE value="Java Polymorphism in progress" />
     <MESSAGE value="some bug fixed i think" />
-    <option name="LAST_COMMIT_MESSAGE" value="some bug fixed i think" />
+    <MESSAGE value="finished 14-17 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished 14-17 exercises" />
   </component>
 </project>
