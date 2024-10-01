@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="finished 14-17 exercises">
+    <list default="true" id="66c97593-b267-44cf-8407-afd19c16e3db" name="Changes" comment="finished 18-24 exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Zad30.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +109,15 @@
     "Application.Zad23.executor": "Run",
     "Application.Zad24 (1).executor": "Run",
     "Application.Zad24.executor": "Run",
+    "Application.Zad25.executor": "Run",
+    "Application.Zad26 (1).executor": "Run",
+    "Application.Zad26 (2).executor": "Run",
+    "Application.Zad26.executor": "Run",
+    "Application.Zad27.executor": "Run",
+    "Application.Zad28.executor": "Run",
+    "Application.Zad29.executor": "Run",
     "Application.Zad3.executor": "Run",
+    "Application.Zad30.executor": "Run",
     "Application.Zad4.executor": "Run",
     "Application.Zad5 (1).executor": "Run",
     "Application.Zad5.executor": "Run",
@@ -123,9 +134,9 @@
     "onboarding.tips.debug.path": "C:/Users/hhjv/IdeaProjects/ObjectOrientedProgramming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad24">
-    <configuration name="Zad21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad21" />
+  <component name="RunManager" selected="Application.Zad30">
+    <configuration name="Zad26 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad26" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad22" />
+    <configuration name="Zad26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad26" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad23" />
+    <configuration name="Zad27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad27" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -163,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad24 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad24" />
+    <configuration name="Zad28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad28" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -176,8 +187,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad24" />
+    <configuration name="Zad30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.Zad30" />
       <module name="ObjectOrientedProgramming" />
       <extension name="coverage">
         <pattern>
@@ -191,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad24" />
-        <item itemvalue="Application.Zad24 (1)" />
-        <item itemvalue="Application.Zad23" />
-        <item itemvalue="Application.Zad22" />
-        <item itemvalue="Application.Zad21" />
+        <item itemvalue="Application.Zad30" />
+        <item itemvalue="Application.Zad28" />
+        <item itemvalue="Application.Zad27" />
+        <item itemvalue="Application.Zad26" />
+        <item itemvalue="Application.Zad26 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727663040262</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="finished 18-24 exercises">
+      <option name="closed" value="true" />
+      <created>1727718661954</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727718661954</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +370,7 @@
     <MESSAGE value="Java Polymorphism in progress" />
     <MESSAGE value="some bug fixed i think" />
     <MESSAGE value="finished 14-17 exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished 14-17 exercises" />
+    <MESSAGE value="finished 18-24 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished 18-24 exercises" />
   </component>
 </project>
